@@ -45,7 +45,7 @@ Hey there! I'm Shlok, a passionate student who loves hacking, building cool tech
 
 - **Professional GitHub:** [Finexji](https://github.com/Finexji)
 - **Personal Projects:** Check out [Pinpointly](https://pinpointly.netlify.app/)
-- **Email:** _[shlokkapade1@gmail.com]_
+- **Email:** shlokkapade1@gmail.com
 
 ---
 
